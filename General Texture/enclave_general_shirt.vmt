@@ -1,0 +1,20 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/h&h/enclavegeneral/Enclave_General_Shirt"
+	"$bumpmap" "models/h&h/enclavegeneral/US_Army_General_Shirt_n"
+	"$phong" "1"
+	"$phongboost" "1.35"
+	"$phongexponent" "5"
+	"$phongtint" "[0.5 0.35 0.3]"
+	"$phongfresnelranges" "[.8 .4 .4]"
+	"$model" "1"
+	"$detail" "models/h&h/shared/detail_leather"
+	"$detailscale" "25"
+	"$detailblendfactor" "2"
+	"$detailblendmode" "0"
+	"$lightwarptexture" "models/h&h/shared/lightwarp_leather"
+	"$alphatest" "1"
+
+
+$color2 "[1 1 1]"
+}
